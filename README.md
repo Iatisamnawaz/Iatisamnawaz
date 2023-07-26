@@ -1,7 +1,7 @@
 # Iatisamnawaz
 Hello, I'm Iatisam Nawaz! 👋
 
-##As the COO of a dynamic startup, I'm driven by my passion for technology and a strong foundation in BSc Computer Science, acquired from prestigious institutions like the University of London. I thrive on delivering integrated solutions that merge the realms of technology and design, with a keen interest in UX/UI Design.
+As the COO of a dynamic startup, I'm driven by my passion for technology and a strong foundation in BSc Computer Science, acquired from prestigious institutions like the University of London. I thrive on delivering integrated solutions that merge the realms of technology and design, with a keen interest in UX/UI Design.
 
 What I Bring to the Table:
 
